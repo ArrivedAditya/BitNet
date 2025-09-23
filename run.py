@@ -74,8 +74,8 @@ command = [
     "-m", modelPath,   # Path of model
     "-p", prompt,      # Text input
     "-n", "256",       # No. of Tokens
-    "-temp", "0.7"     # Lower temperature for a factual, less creative summary
-    "-t", "2",         # No. of Threads
+    "-temp", "0.7",     # Lower temperature for a factual, less creative summary
+    "-t", "4",         # No. of Threads
 ]
 #----------------------------------------------------------------------------------------------
 
