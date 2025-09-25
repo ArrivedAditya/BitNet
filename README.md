@@ -28,7 +28,7 @@ Model that is supported to use in this branch
 For Windows users, its best use wsl for this thing and install linux distro like.
 
 For Debian/Ubuntu or LTS Linux distro users
-- Packages respostory like ![llvm](https://apt.llvm.org/) 
+- Packages respostory like [llvm](https://apt.llvm.org/) 
 
         `bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)"`
 
